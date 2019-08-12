@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://transreil.ru/</loc>
+	<lastmod>2019-06-07T11:33:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://transreil.ru/index.php/main/news</loc>
+	<lastmod>2019-06-07T11:33:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://transreil.ru/index.php/main/company</loc>
+	<lastmod>2019-06-07T11:33:14+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://transreil.ru/index.php/main/contract</loc>
+	<lastmod>2019-06-07T11:33:15+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://transreil.ru/index.php/main/contacts</loc>
+	<lastmod>2019-06-07T11:33:15+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://transreil.ru/index.php/main/map</loc>
+	<lastmod>2019-06-07T11:33:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://transreil.ru/index.php/main/communication</loc>
+	<lastmod>2019-06-07T11:33:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+</urlset>
